@@ -2,6 +2,11 @@
 %Rushi Shah
 %1 January 2014
 
+#Q
+Find at least two (2) photographs of the exterior of the building. Include titles and captions on something noteworthy. Label the building materials on one of the photographs
+
+#A
+
 ![Dome of JKK: entrance someone sees as they approach the building. As they enter they will see the interior of dome painted with Rajasthani artwork](http://jawaharkalakendra.rajasthan.gov.in/images/jkk-about.jpg)
 
 <hr>
