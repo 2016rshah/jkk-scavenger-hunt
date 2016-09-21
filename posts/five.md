@@ -8,5 +8,9 @@ Find at least two (2) print sources in the library that feature this building. F
 
 #A
 
+Both the print sources from the university library were used and cited as sources for other scavenger hunt tasks
 
+Citation 4: [Museums of Rajasthan](./references)
+
+Citation 5: [Tryst with tradition : exploring Rajasthan through the Alankar Museum, Jawahar Kala Kendra](./references)
 
